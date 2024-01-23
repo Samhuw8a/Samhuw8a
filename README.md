@@ -1,8 +1,14 @@
 ## Sali zäme👋, ech ben de Samuel
-
-- 📧 **E-Mail**: Samuel.huwiler@gmx.ch
+```python
+class Samuel(AboutMe):
+  email: str = "samuel.huwiler@gmx.ch"
+  firstname:str = "Samuel"
+  lastname:str = "Huwiler"
+  country:str = "switzerland"
+```
 - 🎓 **Schule**: [Kantonsschule Reussbühl](https://ksreussbuehl.lu.ch)
 - 🎮 [**KSRMinecraft**](https://ksrminecraft.ch)
+
 <!--
 **Samhuw8a/Samhuw8a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,25 +1,10 @@
 ## Sali zäme👋, ech ben de Samuel
 ```python
-class Samuel(AboutMe):
+class Samul(AboutMe):
   email: str = "samuel.huwiler@gmx.ch"
   firstname:str = "Samuel"
   lastname:str = "Huwiler"
   country:str = "switzerland"
 ```
-- 🎓 **Schule**: [Kantonsschule Reussbühl](https://ksreussbuehl.lu.ch)
+- 🎓 **Schule**: [ETH Zürich](https://inf.ethz.ch/de)
 - 🎮 [**KSRMinecraft**](https://ksrminecraft.ch)
-
-<!--
-**Samhuw8a/Samhuw8a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

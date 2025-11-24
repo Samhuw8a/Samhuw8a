@@ -1,6 +1,6 @@
 ## Sali zäme👋, ech ben de Samuel
 ```python
-class Samul(AboutMe):
+class Samuel(AboutMe):
   email: str = "samuel.huwiler@gmx.ch"
   firstname:str = "Samuel"
   lastname:str = "Huwiler"

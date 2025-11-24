@@ -6,5 +6,6 @@ class Samuel(AboutMe):
   lastname: str = "Huwiler"
   country: str = "switzerland"
 ```
+
 - 🎓 **Schule**: [ETH Zürich](https://inf.ethz.ch/de)
 - 🎮 [**KSRMinecraft**](https://ksrminecraft.ch)

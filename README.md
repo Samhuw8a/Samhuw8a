@@ -9,3 +9,4 @@ class Samuel(AboutMe):
 
 - 🎓 **Schule**: [ETH Zürich](https://inf.ethz.ch/de)
 - 🎮 [**KSRMinecraft**](https://ksrminecraft.ch)
+- 💻 [**Website**](https://samuelhuwiler.ch)
